@@ -1,0 +1,10 @@
+{
+  "name": "Vitals & Nutrition Tracker",
+  "description": "An Apple Health-inspired dashboard to log nutrition via photos and track vitals, with personalized health suggestions and support powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
